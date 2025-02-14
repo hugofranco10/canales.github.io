@@ -1,0 +1,602 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="El Trece">
+    <display-name lang="es">El Trece</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="El Nueve">
+    <display-name lang="es">El Nueve</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <programme start="20250214233000 -0300" stop="20250215001500 -0300" channel="El Trece">
+    <title lang="es">La noche perfecta</title>
+  </programme>
+  <programme start="20250215001500 -0300" stop="20250215010000 -0300" channel="El Trece">
+    <title lang="es">En síntesis</title>
+  </programme>
+  <programme start="20250215010000 -0300" stop="20250215063000 -0300" channel="El Trece">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20250215063000 -0300" stop="20250215070000 -0300" channel="El Trece">
+    <title lang="es">Tiempo del tiempo</title>
+  </programme>
+  <programme start="20250215070000 -0300" stop="20250215090000 -0300" channel="El Trece">
+    <title lang="es">Arriba argentinos</title>
+  </programme>
+  <programme start="20250215090000 -0300" stop="20250215103000 -0300" channel="El Trece">
+    <title lang="es">Mañanísima</title>
+  </programme>
+  <programme start="20250215103000 -0300" stop="20250215123000 -0300" channel="El Trece">
+    <title lang="es">Puro show</title>
+  </programme>
+  <programme start="20250215123000 -0300" stop="20250215130000 -0300" channel="El Trece">
+    <title lang="es">El zorro</title>
+  </programme>
+  <programme start="20250215130000 -0300" stop="20250215144500 -0300" channel="El Trece">
+    <title lang="es">Mediodía noticias</title>
+  </programme>
+  <programme start="20250215144500 -0300" stop="20250215163000 -0300" channel="El Trece">
+    <title lang="es">Cuestión de peso</title>
+  </programme>
+  <programme start="20250215163000 -0300" stop="20250215183000 -0300" channel="El Trece">
+    <title lang="es">MDQ</title>
+  </programme>
+  <programme start="20250215183000 -0300" stop="20250215200000 -0300" channel="El Trece">
+    <title lang="es">Los 8 escalones</title>
+  </programme>
+  <programme start="20250215200000 -0300" stop="20250215213000 -0300" channel="El Trece">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20250215213000 -0300" stop="20250215221500 -0300" channel="El Trece">
+    <title lang="es">El encargado</title>
+  </programme>
+  <programme start="20250215221500 -0300" stop="20250215233000 -0300" channel="El Trece">
+    <title lang="es">The Floor, la conquista</title>
+  </programme>
+  <programme start="20250215233000 -0300" stop="20250216001500 -0300" channel="El Trece">
+    <title lang="es">La noche perfecta</title>
+  </programme>
+  <programme start="20250216001500 -0300" stop="20250216010000 -0300" channel="El Trece">
+    <title lang="es">En síntesis</title>
+  </programme>
+  <programme start="20250216010000 -0300" stop="20250216063000 -0300" channel="El Trece">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20250216063000 -0300" stop="20250216084500 -0300" channel="El Trece">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20250216084500 -0300" stop="20250216091500 -0300" channel="El Trece">
+    <title lang="es">Piñón en familia</title>
+  </programme>
+  <programme start="20250216091500 -0300" stop="20250216093000 -0300" channel="El Trece">
+    <title lang="es">Soy Muni</title>
+  </programme>
+  <programme start="20250216093000 -0300" stop="20250216110000 -0300" channel="El Trece">
+    <title lang="es">Cine de la mañana</title>
+  </programme>
+  <programme start="20250216110000 -0300" stop="20250216120000 -0300" channel="El Trece">
+    <title lang="es">Plan TV</title>
+  </programme>
+  <programme start="20250216120000 -0300" stop="20250217000000 -0300" channel="El Trece">
+    <title lang="es">Cine Trece</title>
+  </programme>
+  <programme start="20250217000000 -0300" stop="20250217001500 -0300" channel="El Trece">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20250217001500 -0300" stop="20250217090000 -0300" channel="El Trece">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20250217090000 -0300" stop="20250217093000 -0300" channel="El Trece">
+    <title lang="es">Panam y circo</title>
+  </programme>
+  <programme start="20250217093000 -0300" stop="20250217094500 -0300" channel="El Trece">
+    <title lang="es">Soy Muni</title>
+  </programme>
+  <programme start="20250217094500 -0300" stop="20250217103000 -0300" channel="El Trece">
+    <title lang="es">El Garage</title>
+  </programme>
+  <programme start="20250217103000 -0300" stop="20250217223000 -0300" channel="El Trece">
+    <title lang="es">Cine de la mañana</title>
+  </programme>
+  <programme start="20250217223000 -0300" stop="20250218000000 -0300" channel="El Trece">
+    <title lang="es">El mundo del espectáculo</title>
+  </programme>
+  <programme start="20250218000000 -0300" stop="20250218004500 -0300" channel="El Trece">
+    <title lang="es">Pasión por el fútbol</title>
+  </programme>
+  <programme start="20250218004500 -0300" stop="20250218010000 -0300" channel="El Trece">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20250218010000 -0300" stop="20250218063000 -0300" channel="El Trece">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20250218063000 -0300" stop="20250218070000 -0300" channel="El Trece">
+    <title lang="es">Tiempo del tiempo</title>
+  </programme>
+  <programme start="20250218070000 -0300" stop="20250218090000 -0300" channel="El Trece">
+    <title lang="es">Arriba argentinos</title>
+  </programme>
+  <programme start="20250218090000 -0300" stop="20250218103000 -0300" channel="El Trece">
+    <title lang="es">Mañanísima</title>
+  </programme>
+  <programme start="20250218103000 -0300" stop="20250218123000 -0300" channel="El Trece">
+    <title lang="es">Puro show</title>
+  </programme>
+  <programme start="20250218123000 -0300" stop="20250218130000 -0300" channel="El Trece">
+    <title lang="es">El zorro</title>
+  </programme>
+  <programme start="20250218130000 -0300" stop="20250218144500 -0300" channel="El Trece">
+    <title lang="es">Mediodía noticias</title>
+  </programme>
+  <programme start="20250218144500 -0300" stop="20250218163000 -0300" channel="El Trece">
+    <title lang="es">Cuestión de peso</title>
+  </programme>
+  <programme start="20250218163000 -0300" stop="20250218183000 -0300" channel="El Trece">
+    <title lang="es">MDQ</title>
+  </programme>
+  <programme start="20250218183000 -0300" stop="20250218200000 -0300" channel="El Trece">
+    <title lang="es">Los 8 escalones</title>
+  </programme>
+  <programme start="20250218200000 -0300" stop="20250218213000 -0300" channel="El Trece">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20250218213000 -0300" stop="20250218221500 -0300" channel="El Trece">
+    <title lang="es">El encargado</title>
+  </programme>
+  <programme start="20250218221500 -0300" stop="20250218233000 -0300" channel="El Trece">
+    <title lang="es">The Floor, la conquista</title>
+  </programme>
+  <programme start="20250218233000 -0300" stop="20250219001500 -0300" channel="El Trece">
+    <title lang="es">La noche perfecta</title>
+  </programme>
+  <programme start="20250219001500 -0300" stop="20250219010000 -0300" channel="El Trece">
+    <title lang="es">En síntesis</title>
+  </programme>
+  <programme start="20250219010000 -0300" stop="20250219011500 -0300" channel="El Trece">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20250219011500 -0300" stop="20250219063000 -0300" channel="El Trece">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20250219063000 -0300" stop="20250219070000 -0300" channel="El Trece">
+    <title lang="es">Tiempo del tiempo</title>
+  </programme>
+  <programme start="20250219070000 -0300" stop="20250219090000 -0300" channel="El Trece">
+    <title lang="es">Arriba argentinos</title>
+  </programme>
+  <programme start="20250219090000 -0300" stop="20250219103000 -0300" channel="El Trece">
+    <title lang="es">Mañanísima</title>
+  </programme>
+  <programme start="20250219103000 -0300" stop="20250219123000 -0300" channel="El Trece">
+    <title lang="es">Puro show</title>
+  </programme>
+  <programme start="20250219123000 -0300" stop="20250219130000 -0300" channel="El Trece">
+    <title lang="es">El zorro</title>
+  </programme>
+  <programme start="20250219130000 -0300" stop="20250219144500 -0300" channel="El Trece">
+    <title lang="es">Mediodía noticias</title>
+  </programme>
+  <programme start="20250219144500 -0300" stop="20250219163000 -0300" channel="El Trece">
+    <title lang="es">Cuestión de peso</title>
+  </programme>
+  <programme start="20250219163000 -0300" stop="20250219183000 -0300" channel="El Trece">
+    <title lang="es">MDQ</title>
+  </programme>
+  <programme start="20250219183000 -0300" stop="20250219200000 -0300" channel="El Trece">
+    <title lang="es">Los 8 escalones</title>
+  </programme>
+  <programme start="20250219200000 -0300" stop="20250219213000 -0300" channel="El Trece">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20250219213000 -0300" stop="20250219221500 -0300" channel="El Trece">
+    <title lang="es">El encargado</title>
+  </programme>
+  <programme start="20250219221500 -0300" stop="20250219233000 -0300" channel="El Trece">
+    <title lang="es">The Floor, la conquista</title>
+  </programme>
+  <programme start="20250219233000 -0300" stop="20250220001500 -0300" channel="El Trece">
+    <title lang="es">La noche perfecta</title>
+  </programme>
+  <programme start="20250220001500 -0300" stop="20250220010000 -0300" channel="El Trece">
+    <title lang="es">En síntesis</title>
+  </programme>
+  <programme start="20250220010000 -0300" stop="20250220063000 -0300" channel="El Trece">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20250220063000 -0300" stop="20250220070000 -0300" channel="El Trece">
+    <title lang="es">Tiempo del tiempo</title>
+  </programme>
+  <programme start="20250220070000 -0300" stop="20250220090000 -0300" channel="El Trece">
+    <title lang="es">Arriba argentinos</title>
+  </programme>
+  <programme start="20250220090000 -0300" stop="20250220103000 -0300" channel="El Trece">
+    <title lang="es">Mañanísima</title>
+  </programme>
+  <programme start="20250220103000 -0300" stop="20250220123000 -0300" channel="El Trece">
+    <title lang="es">Puro show</title>
+  </programme>
+  <programme start="20250220123000 -0300" stop="20250220130000 -0300" channel="El Trece">
+    <title lang="es">El zorro</title>
+  </programme>
+  <programme start="20250220130000 -0300" stop="20250220144500 -0300" channel="El Trece">
+    <title lang="es">Mediodía noticias</title>
+  </programme>
+  <programme start="20250220144500 -0300" stop="20250220163000 -0300" channel="El Trece">
+    <title lang="es">Cuestión de peso</title>
+  </programme>
+  <programme start="20250220163000 -0300" stop="20250220183000 -0300" channel="El Trece">
+    <title lang="es">MDQ</title>
+  </programme>
+  <programme start="20250220183000 -0300" stop="20250220200000 -0300" channel="El Trece">
+    <title lang="es">Los 8 escalones</title>
+  </programme>
+  <programme start="20250220200000 -0300" stop="20250220213000 -0300" channel="El Trece">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20250220213000 -0300" stop="20250220221500 -0300" channel="El Trece">
+    <title lang="es">El encargado</title>
+  </programme>
+  <programme start="20250220221500 -0300" stop="20250220233000 -0300" channel="El Trece">
+    <title lang="es">The Floor, la conquista</title>
+  </programme>
+  <programme start="20250220233000 -0300" stop="20250221001500 -0300" channel="El Trece">
+    <title lang="es">La noche perfecta</title>
+  </programme>
+  <programme start="20250214230000 -0300" stop="20250215000000 -0300" channel="El Nueve">
+    <title lang="es">A todo ritmo</title>
+  </programme>
+  <programme start="20250215000000 -0300" stop="20250215003000 -0300" channel="El Nueve">
+    <title lang="es">Nuevediario IP</title>
+  </programme>
+  <programme start="20250215003000 -0300" stop="20250215010000 -0300" channel="El Nueve">
+    <title lang="es">Pastor Cinalli</title>
+  </programme>
+  <programme start="20250215010000 -0300" stop="20250215011500 -0300" channel="El Nueve">
+    <title lang="es">Lo mejor del 9</title>
+  </programme>
+  <programme start="20250215011500 -0300" stop="20250215021500 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20250215021500 -0300" stop="20250215024500 -0300" channel="El Nueve">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+  <programme start="20250215024500 -0300" stop="20250215033000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20250215033000 -0300" stop="20250215050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20250215050000 -0300" stop="20250215053000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+  <programme start="20250215053000 -0300" stop="20250215060000 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20250215060000 -0300" stop="20250215070000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer a las 6</title>
+  </programme>
+  <programme start="20250215070000 -0300" stop="20250215100000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+  <programme start="20250215100000 -0300" stop="20250215120000 -0300" channel="El Nueve">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+  <programme start="20250215120000 -0300" stop="20250215140000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+  <programme start="20250215140000 -0300" stop="20250215170000 -0300" channel="El Nueve">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20250215170000 -0300" stop="20250215190000 -0300" channel="El Nueve">
+    <title lang="es">Escuela de cocina</title>
+  </programme>
+  <programme start="20250215190000 -0300" stop="20250215203000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20250215203000 -0300" stop="20250215220000 -0300" channel="El Nueve">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20250215220000 -0300" stop="20250215230000 -0300" channel="El Nueve">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="20250215230000 -0300" stop="20250216000000 -0300" channel="El Nueve">
+    <title lang="es">A todo ritmo</title>
+  </programme>
+  <programme start="20250216000000 -0300" stop="20250216003000 -0300" channel="El Nueve">
+    <title lang="es">Nuevediario IP</title>
+  </programme>
+  <programme start="20250216003000 -0300" stop="20250216010000 -0300" channel="El Nueve">
+    <title lang="es">Pastor Cinalli</title>
+  </programme>
+  <programme start="20250216010000 -0300" stop="20250216011500 -0300" channel="El Nueve">
+    <title lang="es">Lo mejor del 9</title>
+  </programme>
+  <programme start="20250216011500 -0300" stop="20250216021500 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20250216021500 -0300" stop="20250216024500 -0300" channel="El Nueve">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+  <programme start="20250216024500 -0300" stop="20250216033000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20250216033000 -0300" stop="20250216053000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20250216053000 -0300" stop="20250216060000 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20250216060000 -0300" stop="20250216070000 -0300" channel="El Nueve">
+    <title lang="es">Suterh con vos</title>
+  </programme>
+  <programme start="20250216070000 -0300" stop="20250216090000 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20250216090000 -0300" stop="20250216093000 -0300" channel="El Nueve">
+    <title lang="es">Prevenir</title>
+  </programme>
+  <programme start="20250216093000 -0300" stop="20250216103000 -0300" channel="El Nueve">
+    <title lang="es">Salud a la vida</title>
+  </programme>
+  <programme start="20250216103000 -0300" stop="20250216113000 -0300" channel="El Nueve">
+    <title lang="es">Franquicias que crecen</title>
+  </programme>
+  <programme start="20250216113000 -0300" stop="20250216120000 -0300" channel="El Nueve">
+    <title lang="es">La Cava</title>
+  </programme>
+  <programme start="20250216120000 -0300" stop="20250216130000 -0300" channel="El Nueve">
+    <title lang="es">Somos bonaerenses</title>
+  </programme>
+  <programme start="20250216130000 -0300" stop="20250216140000 -0300" channel="El Nueve">
+    <title lang="es">Nara que ver</title>
+  </programme>
+  <programme start="20250216140000 -0300" stop="20250216153000 -0300" channel="El Nueve">
+    <title lang="es">La cocina del 9</title>
+  </programme>
+  <programme start="20250216153000 -0300" stop="20250216163000 -0300" channel="El Nueve">
+    <title lang="es">Lo mejor del 9</title>
+  </programme>
+  <programme start="20250216163000 -0300" stop="20250216180000 -0300" channel="El Nueve">
+    <title lang="es">70-20-Hoy</title>
+  </programme>
+  <programme start="20250216180000 -0300" stop="20250216200000 -0300" channel="El Nueve">
+    <title lang="es">Implacables</title>
+  </programme>
+  <programme start="20250216200000 -0300" stop="20250216210000 -0300" channel="El Nueve">
+    <title lang="es">Los deconstrui2</title>
+  </programme>
+  <programme start="20250216210000 -0300" stop="20250216220000 -0300" channel="El Nueve">
+    <title lang="es">Planeta 9</title>
+  </programme>
+  <programme start="20250216220000 -0300" stop="20250216230000 -0300" channel="El Nueve">
+    <title lang="es">Laura</title>
+  </programme>
+  <programme start="20250216230000 -0300" stop="20250217000000 -0300" channel="El Nueve">
+    <title lang="es">Lo mejor del 9</title>
+  </programme>
+  <programme start="20250217000000 -0300" stop="20250217010000 -0300" channel="El Nueve">
+    <title lang="es">Argentina por argentinos</title>
+  </programme>
+  <programme start="20250217010000 -0300" stop="20250217020000 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20250217020000 -0300" stop="20250217053000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20250217053000 -0300" stop="20250217060000 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20250217060000 -0300" stop="20250217070000 -0300" channel="El Nueve">
+    <title lang="es">Suterh con vos</title>
+  </programme>
+  <programme start="20250217070000 -0300" stop="20250217090000 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20250217090000 -0300" stop="20250217100000 -0300" channel="El Nueve">
+    <title lang="es">Jineteando</title>
+  </programme>
+  <programme start="20250217100000 -0300" stop="20250217103000 -0300" channel="El Nueve">
+    <title lang="es">Tenés que ir</title>
+  </programme>
+  <programme start="20250217103000 -0300" stop="20250217110000 -0300" channel="El Nueve">
+    <title lang="es">Automás</title>
+  </programme>
+  <programme start="20250217110000 -0300" stop="20250217120000 -0300" channel="El Nueve">
+    <title lang="es">Argentina por argentinos</title>
+  </programme>
+  <programme start="20250217120000 -0300" stop="20250217130000 -0300" channel="El Nueve">
+    <title lang="es">Con estilo</title>
+  </programme>
+  <programme start="20250217130000 -0300" stop="20250217150000 -0300" channel="El Nueve">
+    <title lang="es">Fútbol sin manchas</title>
+  </programme>
+  <programme start="20250217150000 -0300" stop="20250217153000 -0300" channel="El Nueve">
+    <title lang="es">BA emergencias</title>
+  </programme>
+  <programme start="20250217153000 -0300" stop="20250217163000 -0300" channel="El Nueve">
+    <title lang="es">Lo mejor del 9</title>
+  </programme>
+  <programme start="20250217163000 -0300" stop="20250217170000 -0300" channel="El Nueve">
+    <title lang="es">Lo mejor del 9</title>
+  </programme>
+  <programme start="20250217170000 -0300" stop="20250217180000 -0300" channel="El Nueve">
+    <title lang="es">Festivales argentinos</title>
+  </programme>
+  <programme start="20250217180000 -0300" stop="20250217200000 -0300" channel="El Nueve">
+    <title lang="es">Implacables</title>
+  </programme>
+  <programme start="20250217200000 -0300" stop="20250217210000 -0300" channel="El Nueve">
+    <title lang="es">Imagen de moda</title>
+  </programme>
+  <programme start="20250217210000 -0300" stop="20250217220000 -0300" channel="El Nueve">
+    <title lang="es">Planeta 9</title>
+  </programme>
+  <programme start="20250217220000 -0300" stop="20250217230000 -0300" channel="El Nueve">
+    <title lang="es">Laura</title>
+  </programme>
+  <programme start="20250217230000 -0300" stop="20250218000000 -0300" channel="El Nueve">
+    <title lang="es">Crimen y misterio</title>
+  </programme>
+  <programme start="20250218000000 -0300" stop="20250218003000 -0300" channel="El Nueve">
+    <title lang="es">Tenés que ir</title>
+  </programme>
+  <programme start="20250218003000 -0300" stop="20250218010000 -0300" channel="El Nueve">
+    <title lang="es">Lo mejor del 9</title>
+  </programme>
+  <programme start="20250218010000 -0300" stop="20250218020000 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20250218020000 -0300" stop="20250218050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20250218050000 -0300" stop="20250218053000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+  <programme start="20250218053000 -0300" stop="20250218060000 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20250218060000 -0300" stop="20250218070000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer a las 6</title>
+  </programme>
+  <programme start="20250218070000 -0300" stop="20250218100000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+  <programme start="20250218100000 -0300" stop="20250218120000 -0300" channel="El Nueve">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+  <programme start="20250218120000 -0300" stop="20250218140000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+  <programme start="20250218140000 -0300" stop="20250218170000 -0300" channel="El Nueve">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20250218170000 -0300" stop="20250218190000 -0300" channel="El Nueve">
+    <title lang="es">Escuela de cocina</title>
+  </programme>
+  <programme start="20250218190000 -0300" stop="20250218203000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20250218203000 -0300" stop="20250218220000 -0300" channel="El Nueve">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20250218220000 -0300" stop="20250218230000 -0300" channel="El Nueve">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="20250218230000 -0300" stop="20250219000000 -0300" channel="El Nueve">
+    <title lang="es">Bendita 20 años</title>
+  </programme>
+  <programme start="20250219000000 -0300" stop="20250219003000 -0300" channel="El Nueve">
+    <title lang="es">Nuevediario IP</title>
+  </programme>
+  <programme start="20250219003000 -0300" stop="20250219010000 -0300" channel="El Nueve">
+    <title lang="es">Pastor Cinalli</title>
+  </programme>
+  <programme start="20250219010000 -0300" stop="20250219011500 -0300" channel="El Nueve">
+    <title lang="es">Lo mejor del 9</title>
+  </programme>
+  <programme start="20250219011500 -0300" stop="20250219021500 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20250219021500 -0300" stop="20250219024500 -0300" channel="El Nueve">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+  <programme start="20250219024500 -0300" stop="20250219033000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20250219033000 -0300" stop="20250219050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20250219050000 -0300" stop="20250219053000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+  <programme start="20250219053000 -0300" stop="20250219060000 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20250219060000 -0300" stop="20250219070000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer a las 6</title>
+  </programme>
+  <programme start="20250219070000 -0300" stop="20250219100000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+  <programme start="20250219100000 -0300" stop="20250219120000 -0300" channel="El Nueve">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+  <programme start="20250219120000 -0300" stop="20250219140000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+  <programme start="20250219140000 -0300" stop="20250219170000 -0300" channel="El Nueve">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20250219170000 -0300" stop="20250219190000 -0300" channel="El Nueve">
+    <title lang="es">Escuela de cocina</title>
+  </programme>
+  <programme start="20250219190000 -0300" stop="20250219203000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20250219203000 -0300" stop="20250219220000 -0300" channel="El Nueve">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20250219220000 -0300" stop="20250219230000 -0300" channel="El Nueve">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="20250219230000 -0300" stop="20250220000000 -0300" channel="El Nueve">
+    <title lang="es">Bendita 20 años</title>
+  </programme>
+  <programme start="20250220000000 -0300" stop="20250220003000 -0300" channel="El Nueve">
+    <title lang="es">Nuevediario IP</title>
+  </programme>
+  <programme start="20250220003000 -0300" stop="20250220010000 -0300" channel="El Nueve">
+    <title lang="es">Pastor Cinalli</title>
+  </programme>
+  <programme start="20250220010000 -0300" stop="20250220011500 -0300" channel="El Nueve">
+    <title lang="es">Lo mejor del 9</title>
+  </programme>
+  <programme start="20250220011500 -0300" stop="20250220021500 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20250220021500 -0300" stop="20250220024500 -0300" channel="El Nueve">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+  <programme start="20250220024500 -0300" stop="20250220033000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20250220033000 -0300" stop="20250220050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20250220050000 -0300" stop="20250220053000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+  <programme start="20250220053000 -0300" stop="20250220060000 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20250220060000 -0300" stop="20250220070000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer a las 6</title>
+  </programme>
+  <programme start="20250220070000 -0300" stop="20250220100000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+  <programme start="20250220100000 -0300" stop="20250220120000 -0300" channel="El Nueve">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+  <programme start="20250220120000 -0300" stop="20250220140000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+  <programme start="20250220140000 -0300" stop="20250220170000 -0300" channel="El Nueve">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20250220170000 -0300" stop="20250220190000 -0300" channel="El Nueve">
+    <title lang="es">Escuela de cocina</title>
+  </programme>
+  <programme start="20250220190000 -0300" stop="20250220203000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20250220203000 -0300" stop="20250220220000 -0300" channel="El Nueve">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20250220220000 -0300" stop="20250220230000 -0300" channel="El Nueve">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="20250220230000 -0300" stop="20250221000000 -0300" channel="El Nueve">
+    <title lang="es">Bendita 20 años</title>
+  </programme>
+</tv>
