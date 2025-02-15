@@ -72,6 +72,10 @@
     <display-name lang="es">RTenEspañol</display-name>
     <url>http://www.telered.com.ar</url>
   </channel>
+  <channel id="Aire">
+    <display-name lang="es">Aire</display-name>
+    <url></url>
+  </channel>
   <programme start="20250215233000 -0300" stop="20250216000000 -0300" channel="Net TV">
     <title lang="es">Reperfilar</title>
   </programme>
